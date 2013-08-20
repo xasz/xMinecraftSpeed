@@ -1,0 +1,8 @@
+name: xMinecartSpeed
+version: 0.1
+description: minecart speed increase
+
+author: xasz
+
+main: me.xasz.xMinecartSpeed.xMinecartSpeed
+
